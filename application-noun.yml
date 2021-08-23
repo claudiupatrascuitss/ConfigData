@@ -1,0 +1,5 @@
+---
+spring:
+  profiles: noun
+  application:
+    name: noun
